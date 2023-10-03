@@ -1,3 +1,4 @@
 {
-    "editor.fontFamily": "'Courier New'"
+    "editor.fontFamily": "'Courier New'",
+    "markdown.preview.fontFamily": "'Courier New'"
 }
