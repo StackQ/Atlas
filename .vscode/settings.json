@@ -1,4 +1,5 @@
 {
     "editor.fontFamily": "'Courier New'",
-    "markdown.preview.fontFamily": "'Courier New'"
+    "markdown.preview.fontFamily": "'Courier New'",
+    "python.analysis.autoImportCompletions": true
 }
